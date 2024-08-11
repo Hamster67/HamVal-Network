@@ -7,6 +7,8 @@ V概擁有強大的程式設計和Debug的能力
 Hamster67擁有建築,招人,和指令的搭配
 # ---------------------------------------------
 Discord : https://discord.gg/yvNS5UMFse
+
 YouTube : https://www.youtube.com/@Assorted-servers
+
 Site : https://www.hamval.cloudns.be
 # ---------------------------------------------
