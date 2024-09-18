@@ -1,6 +1,6 @@
 # ---------------------------------------------
 # HamVal Network
-這是為華人地區而做的伺服器
+這是為亞洲地區而做的伺服器
 
 擁有Bedwars Skywars FastBuider和FFA
 
